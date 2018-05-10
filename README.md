@@ -1,3 +1,1 @@
-tanwanlanyue-zhazhahui\t\n
-tanwanlanyue-gutianle\t\n
-tanwanlanyue-sunhonglei\t\n
+tanwanlanyue-zhazhahui\t\ntanwanlanyue-gutianle\t\ntanwanlanyue-sunhonglei\t\n
